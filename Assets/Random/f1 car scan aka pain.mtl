@@ -1,0 +1,13 @@
+# Blender 5.0.1 MTL File: 'f1 car scan aka pain.blend'
+# www.blender.org
+
+newmtl material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd -s 1 1 inf C:/7bade70fef2ae7a19e955a1fa2077d77_color.jpg
+map_Bump -s 1 1 inf -bm 1.000000 C:/c24fd3eb84795868c24a2f3364b2a102_normal.jpg

@@ -1,0 +1,12 @@
+# Blender 5.0.1 MTL File: 'cannaster.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/allys/Downloads/15_03_2026/textures/eb87ebf01a09e65ea771d49fa2034f6c.jpg

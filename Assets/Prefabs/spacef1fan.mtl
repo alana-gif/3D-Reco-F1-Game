@@ -1,0 +1,12 @@
+# Blender 5.0.1 MTL File: 'spacef1fan.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/allys/Downloads/09_04_2026/textures/3d3d5d7dd614cf3b680b1f987c3b3ff7.jpg
