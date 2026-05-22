@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Utilities.Test</RootNamespace>
-    <ProjectGuid>{C4575F12-32B5-0369-2A06-41CFF6C6BB53}</ProjectGuid>
+    <ProjectGuid>{6D369090-3731-20D3-5761-5DD037E7AFB7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Utilities.Test</AssemblyName>
@@ -1166,7 +1166,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Utilities.csproj">
-      <Project>{99AE2A5D-8C63-CCA7-F735-416EE45B1D02}</Project>
+      <Project>{9BD74945-44E4-371A-AC58-939B312AFF34}</Project>
       <Name>Utilities</Name>
     </ProjectReference>
   </ItemGroup>

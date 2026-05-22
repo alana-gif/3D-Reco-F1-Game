@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{26370DDC-5D9C-8D69-9A20-9BF36F1A413A}</ProjectGuid>
+    <ProjectGuid>{09C45D59-FC7C-B66B-DADF-98D8ECE54E6C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -59,18 +59,18 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.59f2-x86_64\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.59f2-x86_64\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.59f2-x86_64\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\AspectGenerator.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\JobEntityGenerator.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\Unity.Entities.Analyzer.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.LambdaJobs.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.SystemAPI.QueryBuilder.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.SystemAPI.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.SystemAPI.Query.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.Common.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\Common.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.EntityQueryBulkOperations.dll" />
-    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\Race Car Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\Unity.Entities.Analyzer.CodeFixes.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\AspectGenerator.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\JobEntityGenerator.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\Unity.Entities.Analyzer.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.LambdaJobs.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.SystemAPI.QueryBuilder.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.SystemAPI.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.SystemAPI.Query.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.Common.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\Common.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\SystemGenerator.EntityQueryBulkOperations.dll" />
+    <Analyzer Include="C:\Users\allys\Desktop\uni\3D Reco\3D Reco F1 Game\Library\PackageCache\com.unity.entities@42c4e852ffb4\Unity.Entities\SourceGenerators\Unity.Entities.Analyzer.CodeFixes.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
@@ -1500,31 +1500,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{B81EB1E9-C980-AC0E-69EF-B3AB0E761E87}</Project>
+      <Project>{C53718C5-EC15-5ECD-28A3-10C844742F5D}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Utilities.Inputs.csproj">
-      <Project>{F3E1D2E3-E205-E375-1A27-B8B982319535}</Project>
+      <Project>{D6F93492-5058-E493-868C-1F6D9B385797}</Project>
       <Name>Utilities.Inputs</Name>
     </ProjectReference>
     <ProjectReference Include="Utilities.Editor.csproj">
-      <Project>{DBBDB57E-0079-7C3A-4D25-563850CDA7C0}</Project>
+      <Project>{529FC234-0ADA-B55F-8C8B-910C39930CE6}</Project>
       <Name>Utilities.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Utilities.Test.Editor.csproj">
-      <Project>{352979B9-9867-F126-4DBA-9D7A26B1A654}</Project>
+      <Project>{9047E55C-72D5-9D83-02D3-6B85D87868ED}</Project>
       <Name>Utilities.Test.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Utilities.csproj">
-      <Project>{99AE2A5D-8C63-CCA7-F735-416EE45B1D02}</Project>
+      <Project>{9BD74945-44E4-371A-AC58-939B312AFF34}</Project>
       <Name>Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="Utilities.Test.csproj">
-      <Project>{C4575F12-32B5-0369-2A06-41CFF6C6BB53}</Project>
+      <Project>{6D369090-3731-20D3-5761-5DD037E7AFB7}</Project>
       <Name>Utilities.Test</Name>
     </ProjectReference>
     <ProjectReference Include="Utilities.Inputs.Editor.csproj">
-      <Project>{70590D66-74EF-18F2-B088-25C35079C819}</Project>
+      <Project>{08D5A19B-39EF-996E-3AFF-FC6C9E179FF3}</Project>
       <Name>Utilities.Inputs.Editor</Name>
     </ProjectReference>
   </ItemGroup>

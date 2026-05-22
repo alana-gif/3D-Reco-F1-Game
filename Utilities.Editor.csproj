@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Utilities.Editor</RootNamespace>
-    <ProjectGuid>{DBBDB57E-0079-7C3A-4D25-563850CDA7C0}</ProjectGuid>
+    <ProjectGuid>{529FC234-0ADA-B55F-8C8B-910C39930CE6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Utilities.Editor</AssemblyName>
@@ -1198,7 +1198,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Utilities.csproj">
-      <Project>{99AE2A5D-8C63-CCA7-F735-416EE45B1D02}</Project>
+      <Project>{9BD74945-44E4-371A-AC58-939B312AFF34}</Project>
       <Name>Utilities</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Utilities.Inputs.Editor</RootNamespace>
-    <ProjectGuid>{70590D66-74EF-18F2-B088-25C35079C819}</ProjectGuid>
+    <ProjectGuid>{08D5A19B-39EF-996E-3AFF-FC6C9E179FF3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Utilities.Inputs.Editor</AssemblyName>
@@ -1202,15 +1202,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Utilities.csproj">
-      <Project>{99AE2A5D-8C63-CCA7-F735-416EE45B1D02}</Project>
+      <Project>{9BD74945-44E4-371A-AC58-939B312AFF34}</Project>
       <Name>Utilities</Name>
     </ProjectReference>
     <ProjectReference Include="Utilities.Inputs.csproj">
-      <Project>{F3E1D2E3-E205-E375-1A27-B8B982319535}</Project>
+      <Project>{D6F93492-5058-E493-868C-1F6D9B385797}</Project>
       <Name>Utilities.Inputs</Name>
     </ProjectReference>
     <ProjectReference Include="Utilities.Editor.csproj">
-      <Project>{DBBDB57E-0079-7C3A-4D25-563850CDA7C0}</Project>
+      <Project>{529FC234-0ADA-B55F-8C8B-910C39930CE6}</Project>
       <Name>Utilities.Editor</Name>
     </ProjectReference>
   </ItemGroup>
