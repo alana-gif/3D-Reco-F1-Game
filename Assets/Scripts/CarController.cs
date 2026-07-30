@@ -28,6 +28,8 @@ public class CarController : MonoBehaviour
         rb.linearVelocity = new Vector3(move.x, rb.linearVelocity.y, move.z);
     }
 }
+
+//debug attempts 
 //////using UnityEngine;
 
 //////public class CarController : MonoBehaviour
