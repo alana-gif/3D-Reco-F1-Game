@@ -96,3 +96,5 @@ public class ResourceBar : MonoBehaviour
         resourceSlider.value = currentResource;
     }
 }
+
+
