@@ -20,3 +20,5 @@ public class FollowCamera : MonoBehaviour
         transform.LookAt(car);
     }
 }
+
+
